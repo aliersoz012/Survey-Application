@@ -79,14 +79,4 @@ Uygulama verileri **LocalStorage** içinde şu şekilde tutulabilir:
 }
 ````
 
-## 📁 Proje Dizini
-
-├── .vscode/ # VS Code ayarları
-├── dashboard/ # Anket sonuçlarının görüntülendiği panel
-├── js/ # JavaScript dosyaları
-│ ├── app.js # Ana uygulama mantığı
-│ ├── ui.js # Arayüz işlemleri
-│ └── storage.js # LocalStorage işlemleri
-├── index.html # Anket öncesi (Pre-Test) sayfası
-├── sonrasi.html # Anket sonrası (Post-Test) sayfası
-└── sonuc.html # Sonuç ve raporlama ekranı
+![Ekran görüntüsü78 2025-11-11 193730](https://github.com/user-attachments/assets/1ac3fa34-19bc-4018-b2f6-e319e8202a7e)
